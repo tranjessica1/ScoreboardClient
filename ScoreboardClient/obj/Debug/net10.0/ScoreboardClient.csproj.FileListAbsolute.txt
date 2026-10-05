@@ -1,0 +1,14 @@
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\bin\Debug\net10.0\ScoreboardClient.exe
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\bin\Debug\net10.0\ScoreboardClient.deps.json
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\bin\Debug\net10.0\ScoreboardClient.runtimeconfig.json
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\bin\Debug\net10.0\ScoreboardClient.dll
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\bin\Debug\net10.0\ScoreboardClient.pdb
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\obj\Debug\net10.0\ScoreboardClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\obj\Debug\net10.0\ScoreboardClient.AssemblyInfoInputs.cache
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\obj\Debug\net10.0\ScoreboardClient.AssemblyInfo.cs
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\obj\Debug\net10.0\ScoreboardClient.csproj.CoreCompileInputs.cache
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\obj\Debug\net10.0\ScoreboardClient.dll
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\obj\Debug\net10.0\refint\ScoreboardClient.dll
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\obj\Debug\net10.0\ScoreboardClient.pdb
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\obj\Debug\net10.0\ScoreboardClient.genruntimeconfig.cache
+C:\Users\Jessica Tran\Documents\skola\ScoreboardClient\ScoreboardClient\obj\Debug\net10.0\ref\ScoreboardClient.dll
